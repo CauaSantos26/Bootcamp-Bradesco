@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Sistema-smart-tv" />
+        <module name="ducumentacao" />
+        <module name="desafio1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

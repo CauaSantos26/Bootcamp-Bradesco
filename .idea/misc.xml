@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/teste/pom.xml" />
         <option value="$PROJECT_DIR$/Sistema-smart-tv/pom.xml" />
+        <option value="$PROJECT_DIR$/ducumentacao/pom.xml" />
+        <option value="$PROJECT_DIR$/desafio1/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
